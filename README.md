@@ -25,3 +25,15 @@ More information about the book in:
 
 https://www.igi-global.com/book/comparative-approaches-using-python-statistical/147545
 
+NOTE: If you use this code in your projects please don't forget to cite the book like this, for example:
+
+[Sarmento and Costa, 2017] Sarmento, R. and Costa, V. (2017). Comparative Approaches to Using R and Python for Statistical Data Analysis.  IGI Global
+
+Here goes the bibtex of the book:
+
+@misc{sarmento2017comparative,
+  title={Comparative Approaches to Using R and Python for Statistical Data Analysis},
+  author={Sarmento, Rui and Costa, Vera},
+  year={2017},
+  publisher={IGI Global}
+}
